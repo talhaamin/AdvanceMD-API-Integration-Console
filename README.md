@@ -4,6 +4,11 @@ ASP.NET Core MVC + AdminLTE application for testing and operating AdvanceMD XMLR
 
 ## Screens
 
+!(1.png)
+
+!(2.png)
+
+!(3.png)
 
 ## Purpose
 
